@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442670296705",
+    "project_id": "escope-debe9",
+    "storage_bucket": "escope-debe9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442670296705:android:c1a7eb4cb5cc767b63e780",
+        "android_client_info": {
+          "package_name": "com.example.escope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442670296705-qf0pibeb4besnur2jgerdrivil5p4u7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHBOdaP04YFnJaXRArEWp43XBZFPBCItQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442670296705-qf0pibeb4besnur2jgerdrivil5p4u7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
